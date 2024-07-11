@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "vinay",
+    "password": "vk@262796",
+    "database": "contactdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
